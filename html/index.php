@@ -423,7 +423,7 @@
 
                     <ul class="footer__links">
                         <li>
-                            <a href="#pricing" class="footer__link">Ronnie</a>
+                            <a href="ronnie.php" class="footer__link">Ronnie</a>
                         </li>
                         <li>
                             <a href="#pricing" class="footer__link">Eddie</a>
