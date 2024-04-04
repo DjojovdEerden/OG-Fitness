@@ -614,7 +614,7 @@ img {
 
 /*=============== CALCULATE ===============*/
 .calculate {
-  padding-bottom: 0;
+  padding-bottom: 1rem;
 }
 
 .calculate__container {
@@ -679,13 +679,13 @@ img {
 
 .calculate__message {
   position: absolute;
-  transform: translateY(1rem);
+  transform: translateY(0rem);
 }
 
 /*=============== FOOTER ===============*/
 .footer__container {
   row-gap: 4rem;
-  padding-top: 1rem;
+  padding-top: 5rem;
 }
 
 .footer__logo,
