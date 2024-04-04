@@ -679,6 +679,7 @@ img {
 
 .calculate__message {
   position: absolute;
+  transform: translateY(0.5rem);
 }
 
 /*=============== FOOTER ===============*/
