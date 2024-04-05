@@ -68,7 +68,7 @@
                 <input type="password" id="password" name="password" required>
             </div>
             <button type="submit" class="login-button">Register</button>
-            <p class="login-register-text">have an account? <a href="/html/login.php">Login Here</a></p>
+            <p class="login-register-text">Have an account? <a href="/html/login.php">Login Here</a></p>
         </form>
     </div>
 
