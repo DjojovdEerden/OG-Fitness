@@ -1,4 +1,4 @@
-<?php include './assets/php/session_check.php'; ?>
+
 <!DOCTYPE html>
 <!-- rest of your HTML code -->
 
