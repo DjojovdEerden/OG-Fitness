@@ -4,7 +4,7 @@
     padding: 15px;
     border-radius: 5px;
     background-color: rgb(90, 82, 82);
-   opacity: 75%;
+    opacity: 75%;
     box-shadow:  10px 10px 10px  10px rgb(2, 0, 0) ((255, 0, 0, 0.1)1);
   }
   
@@ -55,7 +55,7 @@
     background: fixed;
     background: no-repeat;
     background-size: cover;
-    background-image: url(sam-sulek-front-lat-spread.jpg) ;
+    background-image: url(img/sam-sulek-front-lat-spread) ;
   }
   
   body::before {
