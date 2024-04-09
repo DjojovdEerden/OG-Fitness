@@ -4,7 +4,7 @@ if (session_status() == PHP_SESSION_NONE) {
 }
 
 if (!isset($_SESSION['last_activity']) || time() - $_SESSION['last_activity'] > 300) {
-    header('Location: ../../html/login.php');
+    header('Location: ../../html/index.php');
     exit();
 } else {
     $_SESSION['last_activity'] = time();
