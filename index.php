@@ -1,4 +1,4 @@
-<?php include './assets/php/session_check.php'; ?>
+
 <!DOCTYPE html>
 <!-- rest of your HTML code -->
 
@@ -43,15 +43,9 @@
                         <a href="#pricing" class="nav__link">Bodybuilders</a>
                     </li>
 
-                    <?php include 'assets/php/session_check.php'; ?>
+                    
 
-                    <li class="nav__item">
-                        <?php 
-                        if (isset($_SESSION['last_activity'])): ?>
-                            <a href="assets/php/logout.php" class="button nav__button">Log Out</a>
-                        <?php endif; ?>
-                    </li>
-                </ul>
+
 
                 <div class="nav__close" id="nav-close">
                     <i class="ri-close-line"></i>
